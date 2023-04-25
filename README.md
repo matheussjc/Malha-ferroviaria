@@ -7,7 +7,7 @@ Scrum master - Matheus Roque
 
 Product Owner - Lucas Nobre
 
-Scrum team - Pedro Wesley
+
 
 ________________________________________
 🛠️ Ferramentas e Tecnologias utilizadas:
