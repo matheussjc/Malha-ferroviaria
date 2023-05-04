@@ -51,5 +51,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/lucas_siqueira29_fatec_sp_go
 https://fatecspgov-my.sharepoint.com/:p:/r/personal/lucas_siqueira29_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B7DBCEF9F-82C0-4BB1-B7D9-6AF504E9CD1D%7D&file=Apresenta%C3%A7%C3%A3o%20-%20Sprint%201%20ppt.pptx&action=edit&mobileredirect=true
 
 -------------------------------------------------
+📜 Desenvolvimento da 1ª sprint
+
 
 
