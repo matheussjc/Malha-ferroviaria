@@ -56,6 +56,8 @@ https://fatecspgov-my.sharepoint.com/:p:/r/personal/lucas_siqueira29_fatec_sp_go
 Foi feito o levantamento do PIB estadual com relação a movimentação do minério de ferro na concessão MRS no ano de 2021 e 2022, com base nessa análise foi desenvolvido com dados estátisticos na ferramenta google colab uma regressão linear ao qual o resultado R² não se comporta de forma coerente com o ideal
 
 
+![image](https://user-images.githubusercontent.com/113734766/236967016-75c6d5d5-5364-43fe-8b61-f189a73a7a8c.png)
+
 
 
 
