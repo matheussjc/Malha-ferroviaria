@@ -58,6 +58,18 @@ Foi feito o levantamento do PIB estadual com relação a movimentação do miné
 
 ![image](https://user-images.githubusercontent.com/113734766/236967016-75c6d5d5-5364-43fe-8b61-f189a73a7a8c.png)
 
+-------------------------------------------------
 
+📜 Desenvolvimento da 3ª sprint
+
+Seguimos com os estudos e com o levantamento de dados PIB nacional, FOB, taxa de combio em valor U$S, e a sua viabilidade economica continua a se comportar de maneira inadequada. 
+Realizado os ajustes na plataforma de análise qualitativa, acrescentando a análise de comparação da movimentação da carga anual. 
+
+-------------------------------------------------
+
+📜 Desenvolvimento da 4ª sprint
+
+Criação e desenvolvimento do site referente ao projeto.
+link:
 
 
